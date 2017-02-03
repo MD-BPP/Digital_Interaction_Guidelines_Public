@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1486025777061,
+  "timestamp": 1486133528025,
   "graph": {
     "options": {
       "directed": true,
@@ -9,97 +9,163 @@
     },
     "nodes": [
       {
-        "v": "global\\buttons\\additional.mustache",
+        "v": "01-global\\01-typography\\01-heading-1.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\buttons\\default.mustache",
+        "v": "01-global\\01-typography\\02-heading-1-variant.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\buttons\\primary.mustache",
+        "v": "01-global\\01-typography\\03-heading-2.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\colours\\brand-colours.mustache",
+        "v": "01-global\\01-typography\\04-heading-3.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\colours\\neutral-colours.mustache",
+        "v": "01-global\\01-typography\\05-heading-4.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\colours\\primary-colours.mustache",
+        "v": "01-global\\01-typography\\06-paragraph.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\colours\\secondary-colours.mustache",
+        "v": "01-global\\01-typography\\07-list.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\colours\\split-gradients.mustache",
+        "v": "01-global\\01-typography\\08-task-list.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\typography\\heading-1-variant.mustache",
+        "v": "01-global\\01-typography\\09-link-heading.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\typography\\heading-1.mustache",
+        "v": "01-global\\01-typography\\10-link-paragraph.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\typography\\heading-2.mustache",
+        "v": "01-global\\01-typography\\11-link-list.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\typography\\heading-3.mustache",
+        "v": "01-global\\01-typography\\12-link-task-list.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\typography\\heading-4.mustache",
+        "v": "01-global\\02-buttons\\01-primary.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\typography\\list.mustache",
+        "v": "01-global\\02-buttons\\02-default.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "global\\typography\\paragraph.mustache",
+        "v": "01-global\\02-buttons\\03-white.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "patterns\\hero-area\\hero-area.mustache",
+        "v": "01-global\\02-buttons\\04-purple.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\02-buttons\\05-additional.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\03-icons\\01-icon-heading.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\03-icons\\02-icon-button.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\03-icons\\03-daytime.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\03-icons\\04-evening.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\04-colours\\brand-colours.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\04-colours\\neutral-colours.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\04-colours\\primary-colours.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\04-colours\\secondary-colours.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\04-colours\\split-gradients.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\hero-area\\hero-area.mustache",
         "value": {
           "compileState": "clean"
         }
