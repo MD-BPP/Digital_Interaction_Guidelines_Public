@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1486136359911,
+  "timestamp": 1489756350928,
   "graph": {
     "options": {
       "directed": true,
@@ -165,7 +165,43 @@
         }
       },
       {
-        "v": "02-patterns\\hero-area\\hero-area.mustache",
+        "v": "02-patterns\\01-navigation\\sticky-nav.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\02-feature sections\\profile.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\02-feature sections\\testimonial.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\03-grids\\01-locations-grid.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\03-grids\\02-hero-area.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\04-forms\\horizontal-form.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\04-forms\\vertical-form.mustache",
         "value": {
           "compileState": "clean"
         }
