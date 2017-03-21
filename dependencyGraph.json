@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1489756350928,
+  "timestamp": 1490106962306,
   "graph": {
     "options": {
       "directed": true,
@@ -160,6 +160,12 @@
       },
       {
         "v": "01-global\\04-colours\\split-gradients.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\01-navigation\\01-header.mustache",
         "value": {
           "compileState": "clean"
         }
