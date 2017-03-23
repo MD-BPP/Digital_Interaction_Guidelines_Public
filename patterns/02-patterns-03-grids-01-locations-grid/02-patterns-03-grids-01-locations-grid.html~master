@@ -27,47 +27,51 @@
     <script>jwplayer.key="oO29mS0FKMUTvwMkg+I1CAGhgkcJ5cXgz2VXhw==";</script>
     <!-- END -->
   </head>
-<<<<<<< HEAD
-  <body class=""><header>
-    <div class="brand-bar">
-        <div class="hamburger visible-xs">
+  <body class=""><section>
+    <div class="container">
+        <div class="location-grid">
+            <div class="location-container location-column">
+                <a href="#0" class="location-container" style="background: url(../../images/placeholder.jpg) no-repeat center; background-size:cover;">
+                    <div class="location-content">
+                    <div class="location-content-wrapper">
+                        <h3>Location name</h3>
+                        <p>street address</p>
+                    </div>
+                    </div>
+                </a>
+
+                <a href="#0" class="location-container" style="background: url(../../images/placeholder.jpg) no-repeat center; background-size:cover;">
+                    <div class="location-content">
+                    <div class="location-content-wrapper">
+                        <h3>Location name</h3>
+                        <p>street address</p>
+                    </div>
+                    </div>
+                </a>
+            </div>
+
+            <a href="#0" class="location-container half" style="background: url(../../images/placeholder.jpg) center no-repeat; background-size: cover">
+                <div class="location-content">
+                    <div class="location-content-wrapper">
+                        <h3>Location name</h3>
+                        <p>street address</p>
+                    </div>
+                </div>
+            </a>
+            <a href="#0" class="location-container" style="background-image: url(../../images/placeholder-portrait.jpg)">
+                <div class="location-content">
+                    <div class="location-content-wrapper">
+                        <h3>Location name</h3>
+                        <p>street address</p>
+                    </div>
+                </div>
+            </a>
         </div>
-        
-        <!-- Desktop Logos -->            
-        <a href="http://www.bpp.com/professional-education" class="header-logo-desktop">
-            <img alt="BPP Professional Education" src="https://s3-eu-west-1.amazonaws.com/bppassets/public/assets/framework_template/images/bpp_profed_logo.jpg" />
-        </a>
-        
-        <!-- Mobile Logos -->
-        <a href="http://www.bpp.com" class="header-logo-mobile">
-            <img src="https://s3-eu-west-1.amazonaws.com/bppassets/public/assets/framework_template/images/bbp_mobile_logo.jpg" alt="BPP Professional Education">
-        </a>
-        
-        <a href="tel:03330 000 000" class="InfinityNumber bppicon icon-phone"><span class="hide-text-mobile">03330 000 000</span></a>
     </div>
-=======
-  <body class=""><header>
-    <div class="brand-bar">
-        <div class="hamburger visible-xs">
-        </div>
-        
-        <!-- Desktop Logos -->            
-        <a href="http://www.bpp.com/professional-education" class="header-logo-desktop">
-            <img alt="BPP Professional Education" src="https://s3-eu-west-1.amazonaws.com/bppassets/public/assets/framework_template/images/bpp_profed_logo.jpg" />
-        </a>
-        
-        <!-- Mobile Logos -->
-        <a href="http://www.bpp.com" class="header-logo-mobile">
-            <img src="https://s3-eu-west-1.amazonaws.com/bppassets/public/assets/framework_template/images/bbp_mobile_logo.jpg" alt="BPP Professional Education">
-        </a>
-        
-        <a href="tel:03330 000 000" class="InfinityNumber bppicon icon-phone"><span class="hide-text-mobile">03330 000 000</span></a>
-    </div>
->>>>>>> master
-</header>  
+<section>  
   <!--DO NOT REMOVE-->
   <script type="text/json" id="sg-pattern-data-footer" class="sg-pattern-data">
-  {"cssEnabled":false,"patternLineageExists":false,"patternLineages":[],"lineage":[],"patternLineageRExists":false,"patternLineagesR":[],"lineageR":[],"patternLineageEExists":false,"patternDesc":"<p>Single lockup Professional Education version of the Brand Bar</p>\n","patternBreadcrumb":{"patternType":"global","patternSubtype":"navigation"},"patternExtension":"mustache","patternName":"Brand Bar PE","patternPartial":"global-brand-bar-PE","patternState":"inprogress","patternEngineName":"mustache","extraOutput":{}}
+  {"cssEnabled":false,"patternLineageExists":false,"patternLineages":[],"lineage":[],"patternLineageRExists":false,"patternLineagesR":[],"lineageR":[],"patternLineageEExists":false,"patternDesc":"<p>When there are 4 locations there are 3 columns. One consists of a large square container, another consists of a tall thin column and the third consists of two small squares placed vertically. These containers can be in any order however the headline location should be in the largest square.</p>\n","patternBreadcrumb":{"patternType":"patterns","patternSubtype":"grids"},"patternExtension":"mustache","patternName":"Locations Grid","patternPartial":"patterns-locations-grid","patternState":"inprogress","patternEngineName":"mustache","extraOutput":{}}
 </script>
 
 <script>
