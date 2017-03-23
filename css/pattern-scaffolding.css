@@ -72,7 +72,7 @@
     overflow: hidden;
 }
 
-.sg-pattern-desc p {
+.sg-pattern-desc p, .sg-pattern-desc ul li {
     font-size: 13px;
 }
 
