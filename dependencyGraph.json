@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1491989595953,
+  "timestamp": 1492007911315,
   "graph": {
     "options": {
       "directed": true,
@@ -51,31 +51,49 @@
         }
       },
       {
-        "v": "01-global\\01-typography\\08-task-list.mustache",
+        "v": "01-global\\01-typography\\08-tick-list.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "01-global\\01-typography\\09-link-heading.mustache",
+        "v": "01-global\\01-typography\\09-task-list.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "01-global\\01-typography\\10-link-paragraph.mustache",
+        "v": "01-global\\01-typography\\10-anchor-list.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "01-global\\01-typography\\11-link-list.mustache",
+        "v": "01-global\\01-typography\\11-link-heading.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "01-global\\01-typography\\12-link-task-list.mustache",
+        "v": "01-global\\01-typography\\12-link-paragraph.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\01-typography\\13-link-list.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\01-typography\\14-link-task-list.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\01-typography\\15-link-anchor-list.mustache",
         "value": {
           "compileState": "clean"
         }
@@ -201,13 +219,13 @@
         }
       },
       {
-        "v": "02-patterns\\02-feature sections\\profile.mustache",
+        "v": "02-patterns\\02-feature-sections\\01-profile.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "02-patterns\\02-feature sections\\testimonial.mustache",
+        "v": "02-patterns\\02-feature-sections\\02-testimonial.mustache",
         "value": {
           "compileState": "clean"
         }
