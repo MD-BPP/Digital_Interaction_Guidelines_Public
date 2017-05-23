@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1495120624940,
+  "timestamp": 1495533727421,
   "graph": {
     "options": {
       "directed": true,
@@ -141,13 +141,13 @@
         }
       },
       {
-        "v": "01-global\\03-icons\\03-daytime.mustache",
+        "v": "01-global\\03-icons\\03-icon-classes.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "01-global\\03-icons\\04-evening.mustache",
+        "v": "01-global\\03-icons\\04-icon-font.mustache",
         "value": {
           "compileState": "clean"
         }
@@ -231,7 +231,25 @@
         }
       },
       {
-        "v": "01-global\\09-Icon-font\\01-icon-font.mustache",
+        "v": "01-global\\07-features\\01-profile.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\07-features\\02-testimonial.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\08-grids\\01-locations-grid.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "01-global\\08-grids\\02-hero-area.mustache",
         "value": {
           "compileState": "clean"
         }
@@ -261,7 +279,13 @@
         }
       },
       {
-        "v": "02-patterns\\02-feature-sections\\02-testimonial.mustache",
+        "v": "02-patterns\\02-feature-sections\\02-content-feature.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\02-feature-sections\\03-testimonial.mustache",
         "value": {
           "compileState": "clean"
         }
@@ -315,13 +339,19 @@
         }
       },
       {
-        "v": "02-patterns\\04-cards\\07-download-card-carousel.mustache",
+        "v": "02-patterns\\04-cards\\07-download-card.mustache",
         "value": {
           "compileState": "clean"
         }
       },
       {
-        "v": "02-patterns\\04-cards\\07-download-card.mustache",
+        "v": "02-patterns\\04-cards\\08-download-card-carousel.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\04-cards\\09-profile-card.mustache",
         "value": {
           "compileState": "clean"
         }
