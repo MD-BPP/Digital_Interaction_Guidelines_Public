@@ -107,6 +107,7 @@
 
 .sg-pattern-example {
     padding: 30px 22px!important;
+    position: relative;
 }
 
 .sg-tabs-list li a:hover {
