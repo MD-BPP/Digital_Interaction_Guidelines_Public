@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1497965126350,
+  "timestamp": 1498037035020,
   "graph": {
     "options": {
       "directed": true,
@@ -231,6 +231,12 @@
         }
       },
       {
+        "v": "01-global\\05-navigation\\09-footer.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
         "v": "01-global\\06-cards\\01-programme-card.mustache",
         "value": {
           "compileState": "clean"
@@ -297,6 +303,12 @@
         }
       },
       {
+        "v": "01-global\\09-presentation\\03-modal.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
         "v": "01-global\\99-files\\01-files.mustache",
         "value": {
           "compileState": "clean"
@@ -322,6 +334,12 @@
       },
       {
         "v": "02-patterns\\01-navigation\\05-sticky-nav.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\01-navigation\\06-footer.mustache",
         "value": {
           "compileState": "clean"
         }
@@ -448,6 +466,18 @@
       },
       {
         "v": "02-patterns\\06-presentation\\02-tabs.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\06-presentation\\03-content-modal.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\06-presentation\\04-video-modal.mustache",
         "value": {
           "compileState": "clean"
         }
