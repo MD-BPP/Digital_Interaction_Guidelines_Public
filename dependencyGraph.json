@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1498213412494,
+  "timestamp": 1498567942350,
   "graph": {
     "options": {
       "directed": true,
@@ -309,6 +309,12 @@
         }
       },
       {
+        "v": "01-global\\09-presentation\\04-show-more.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
         "v": "02-patterns\\01-navigation\\01-header-B2C.mustache",
         "value": {
           "compileState": "clean"
@@ -472,6 +478,12 @@
       },
       {
         "v": "02-patterns\\06-presentation\\04-video-modal.mustache",
+        "value": {
+          "compileState": "clean"
+        }
+      },
+      {
+        "v": "02-patterns\\06-presentation\\05-show-more.mustache",
         "value": {
           "compileState": "clean"
         }
